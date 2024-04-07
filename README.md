@@ -39,10 +39,13 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 - [image-cropper](https://github.com/1977474741/image-cropper) - 一款功能强大的微信小程序图片裁剪插件
-- [Skyline UI](https://github.com/wuhanjieyue/sky-ui) Skyline UI 组件库
+- [Skyline UI](https://github.com/wuhanjieyue/sky-ui) - Skyline UI 组件库
 
 ### Utils
 - [spa-custom-hooks](https://github.com/1977474741/spa-custom-hooks) - 业务层自定义钩子（异步任务通知解决方案），支持各种小程序和Vue架构（uni-app、wepy、mpvue等）
+- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
+- [mitt](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub
+- [@ygoe/msgpack](https://github.com/ygoe/msgpack.js) - A minimal yet complete MessagePack implementation for JavaScript
 
 ### Typescript
 - [api-type](https://github.com/wechat-miniprogram/api-typings) - Official Type definitions for APIs of Wechat Mini Program in TypeScript
