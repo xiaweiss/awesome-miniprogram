@@ -40,6 +40,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 - [image-cropper](https://github.com/1977474741/image-cropper) - 一款功能强大的微信小程序图片裁剪插件
 - [Skyline UI](https://github.com/wuhanjieyue/sky-ui) - Skyline UI 组件库
+- [iiccon](https://github.com/wanglihuaya/iiccon) - antfu的https://icones.js.org/ 图标库的小程序实现
 
 ### Utils
 - [spa-custom-hooks](https://github.com/1977474741/spa-custom-hooks) - 业务层自定义钩子（异步任务通知解决方案），支持各种小程序和Vue架构（uni-app、wepy、mpvue等）
