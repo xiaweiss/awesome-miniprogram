@@ -47,6 +47,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 - [mitt](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub
 - [@ygoe/msgpack](https://github.com/ygoe/msgpack.js) - A minimal yet complete MessagePack implementation for JavaScript
+- [miniprogram-unicode-segmenter](https://github.com/xiaweiss/miniprogram-unicode-segmenter) - A lightweight implementation of the Unicode Text Segmentation (UAX #29)
 
 ### Typescript
 - [api-type](https://github.com/wechat-miniprogram/api-typings) - Official Type definitions for APIs of Wechat Mini Program in TypeScript
