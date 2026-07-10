@@ -29,6 +29,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [GitHub Repo](https://github.com/wechat-miniprogram)
 - [Release Notes](https://developers.weixin.qq.com/miniprogram/dev/framework/release/)
 
+### Framewrok
+- [weapp-vite](https://github.com/weapp-vite/weapp-vite) - 把现代化的开发模式带入小程序开发：极速热更、类型安全、插件生态、原子化样式与工程化能力，一站式串联
+
 ### CI/CD
 - [miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci) - Official CI support
 
